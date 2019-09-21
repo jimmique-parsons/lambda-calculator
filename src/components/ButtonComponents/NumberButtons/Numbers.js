@@ -21,3 +21,5 @@ const [numberState, setNumberState] = useState(numbers);
     </div>
   );
 };
+
+export default Numbers;
